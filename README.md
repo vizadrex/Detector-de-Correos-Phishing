@@ -143,3 +143,14 @@ bash
 Copy
 git push origin feature/nueva-funcionalidad
 Abre un Pull Request
+
+
+
+![image](https://github.com/user-attachments/assets/911ddb39-dc4c-4ac8-9835-0a0b59d8f673)
+
+![image](https://github.com/user-attachments/assets/e3e2d5c9-b588-4c88-8021-6533bf72ed3d)
+
+![image](https://github.com/user-attachments/assets/e9190f19-22d6-4435-9b8c-00cb1155fdf7)
+
+
+
