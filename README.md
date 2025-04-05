@@ -84,9 +84,9 @@ Copy
   "text_preview": "Estimado cliente, su cuenta requiere..."
 }
 
-![image](https://github.com/user-attachments/assets/ce592f4b-408c-4649-9157-8064ef9bb26e)
-![image](https://github.com/user-attachments/assets/fb84190e-73e8-4dc4-9d55-89e1b8f2ac54)
+[image](https://github.com/user-attachments/assets/ce592f4b-408c-4649-9157-8064ef9bb26e)
+[image](https://github.com/user-attachments/assets/fb84190e-73e8-4dc4-9d55-89e1b8f2ac54)
 
-![image](https://github.com/user-attachments/assets/537fb5d9-4307-4ff1-9bbd-9ac85b33c71a)
+[image](https://github.com/user-attachments/assets/537fb5d9-4307-4ff1-9bbd-9ac85b33c71a)
 
-![image](https://github.com/user-attachments/assets/74905cac-04ad-4adf-afad-c123ae26a33b)
+[image](https://github.com/user-attachments/assets/74905cac-04ad-4adf-afad-c123ae26a33b)
